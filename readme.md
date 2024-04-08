@@ -1,3 +1,7 @@
+# LOCAL SETUP
+Changed the `OLLAMA_BASE_URL` in `.env` file and `docker-compose` file
+Start everything with `docker compose --profile linux up`
+
 # GenAI Stack
 The GenAI Stack will get you started building your own GenAI application in no time.
 The demo applications can serve as inspiration or as a starting point.
